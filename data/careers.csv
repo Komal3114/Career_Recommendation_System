@@ -1,0 +1,50 @@
+career,skills,description
+Data Scientist,"python,sql,statistics,machine learning,pandas,scikit-learn","Build models, analyze data, produce insights"
+Data Analyst,"sql,excel,tableau,power bi,pandas,communication",Analyze and visualize business data
+Machine Learning Engineer,"python,tensorflow,pytorch,ml,model deployment,docker",Design and deploy ML models
+Business Analyst,"sql,excel,communication,domain knowledge,reporting","Bridge business and tech, produce requirements and insights"
+Data Engineer,"python,sql,airflow,spark,etl,hadoop",Build data pipelines and warehouses
+Product Manager,"communication,customer research,roadmapping,stakeholders,leadership","Define product, prioritize features, coordinate teams"
+Software Engineer,"java,python,git,algorithms,data structures,debugging",Develop software applications and systems
+Web Developer,"html,css,javascript,react,node.js,sql",Build and maintain web applications
+Mobile App Developer,"java,kotlin,swift,flutter,react native,api integration",Develop mobile apps for Android/iOS
+Cloud Engineer,"aws,azure,gcp,docker,kubernetes,terraform",Design and manage cloud infrastructure
+Cybersecurity Analyst,"networking,firewalls,ids/ips,linux,python,threat detection",Protect systems from cyber threats
+AI Researcher,"python,deep learning,nlp,computer vision,mathematics,research",Develop new AI algorithms and applications
+DevOps Engineer,"linux,docker,kubernetes,jenkins,ci/cd,ansible",Automate deployment and system reliability
+Database Administrator,"sql,oracle,mysql,postgresql,backup,performance tuning",Manage and optimize databases
+Network Engineer,"networking,tcp/ip,firewalls,routing,switching,security",Design and maintain computer networks
+Systems Analyst,"requirements gathering,uml,sql,communication,problem-solving",Analyze systems and improve processes
+Digital Marketer,"seo,sem,google analytics,social media,content creation",Promote products and services online
+UI/UX Designer,"figma,adobe xd,sketch,html,css,design thinking",Design user-friendly interfaces and experiences
+Graphic Designer,"photoshop,illustrator,creativity,branding,typography",Create visual concepts and branding materials
+Content Writer,"writing,research,seo,communication,storytelling",Produce engaging written content for blogs and media
+HR Specialist,"recruitment,communication,employee relations,hr software","Handle recruitment, employee management, and HR policies"
+Financial Analyst,"excel,financial modeling,forecasting,accounting,communication",Analyze financial data and trends for businesses
+Civil Engineer,"autocad,project management,structural analysis,matlab",Design and oversee construction projects
+Mechanical Engineer,"cad,solidworks,matlab,manufacturing,thermodynamics",Design mechanical systems and machines
+Electrical Engineer,"circuit design,matlab,simulink,power systems,microcontrollers",Work with electrical systems and devices
+Biotechnologist,"molecular biology,genetics,laboratory,statistics,research",Conduct biological research and innovation
+Doctor,"diagnosis,treatment,patient care,communication,medical knowledge",Provide medical care and treatment
+Nurse,"patient care,communication,empathy,medication administration",Support patient health and recovery
+Teacher,"communication,lesson planning,subject knowledge,assessment",Educate students in academic subjects
+Lawyer,"legal research,argumentation,communication,negotiation",Represent clients in legal matters
+Chartered Accountant,"accounting,auditing,taxation,excel,finance","Manage accounts, audits, and taxation"
+Entrepreneur,"leadership,creativity,finance,communication,networking",Start and manage businesses
+Game Developer,"c++,unity,unreal engine,3d modeling,physics",Design and develop video games
+Animator,"maya,blender,3d modeling,storytelling,creativity",Create animations for films and games
+Astronomer,"physics,mathematics,astrophysics,telescopes,data analysis",Research celestial phenomena
+Statistician,"statistics,probability,r,python,data analysis",Work with data to find patterns and insights
+Economist,"econometrics,statistics,policy analysis,communication",Analyze economic data and advise policies
+Psychologist,"counseling,empathy,analysis,research,communication",Study human behavior and help mental health
+Pharmacist,"pharmacology,chemistry,attention to detail,patient care",Prepare and provide medications
+Architect,"autocad,design,creativity,project management,3d modeling",Design buildings and structures
+Chef,"cooking,creativity,time management,menu planning",Prepare food and manage kitchens
+Journalist,"writing,reporting,interviewing,storytelling,communication",Report news and stories
+Photographer,"photography,editing,creativity,lighting,storytelling",Capture and edit photos
+Pilot,"navigation,communication,teamwork,decision making",Fly and navigate aircraft safely
+Flight Attendant,"customer service,communication,empathy,safety training",Assist passengers on flights
+Civil Servant,"policy making,administration,communication,problem-solving",Work in government services
+Research Scientist,"lab work,experimentation,statistics,python,writing",Conduct scientific research and publish findings
+Environmental Scientist,"ecology,climate science,geography,data analysis",Study environment and propose sustainable solutions
+Social Worker,"empathy,communication,counseling,problem-solving",Support individuals and communities
