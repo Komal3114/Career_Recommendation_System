@@ -11,7 +11,6 @@ certifi==2025.1.31
 charset-normalizer==3.4.1
 click==8.2.1
 colorama==0.4.6
-comtypes==1.4.10
 distro==1.9.0
 Django==5.1.4
 Flask==3.1.2
@@ -44,12 +43,10 @@ pydantic_core==2.33.2
 pydeck==0.9.1
 pygame==2.6.1
 pyparsing==3.2.3
-pypiwin32==223
 python-dateutil==2.9.0.post0
 python-dotenv==1.1.1
 pyttsx3==2.98
 pytz==2024.2
-pywin32==309
 RapidFuzz==3.14.0
 referencing==0.36.2
 requests==2.32.3
